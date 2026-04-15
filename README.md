@@ -25,5 +25,4 @@ The goal was to improve usability, accessibility, and overall user experience.
 ## 🔗 Figma Prototype
 https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled  
 
-## 👤 Author
-Rameez Karriem
+
