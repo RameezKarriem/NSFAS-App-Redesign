@@ -69,36 +69,31 @@ This redesign aims to solve these issues by improving structure and clarity.
 
 *(Click the link above to view the interactive prototype)*
 
----
+--
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
 <p align="center">
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2009.58.36.jpeg" width="25%"/>
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2009.59.46.jpeg" width="25%"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2009.58.36.jpeg" width="25%" style="margin: 20px;"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2009.59.46.jpeg" width="25%" style="margin: 20px;"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.00.50.jpeg" width="25%"/>
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.01.24.jpeg" width="25%"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.00.50.jpeg" width="25%" style="margin: 20px;"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.01.24.jpeg" width="25%" style="margin: 20px;"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.02.16.jpeg" width="25%"/>
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.03.25.jpeg" width="25%"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.02.16.jpeg" width="25%" style="margin: 20px;"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.03.25.jpeg" width="25%" style="margin: 20px;"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.04.12.jpeg" width="25%"/>
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.04.24.jpeg" width="25%"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.04.12.jpeg" width="25%" style="margin: 20px;"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.04.24.jpeg" width="25%" style="margin: 20px;"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.06.35.jpeg" width="25%"/>
-  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.07.45.jpeg" width="25%"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.06.35.jpeg" width="25%" style="margin: 20px;"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-04-16%20at%2010.07.45.jpeg" width="25%" style="margin: 20px;"/>
 </p>
-
-
-
