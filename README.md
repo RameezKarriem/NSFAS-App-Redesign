@@ -71,4 +71,7 @@ This redesign aims to solve these issues by improving structure and clarity.
 
 ---
 
+## 🖼️ Screenshots
+
+
 
